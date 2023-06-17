@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">
+  Hi 👋 , I'm Vasapol Rittideah
+</h1>
+
+<div align="center">
+  <a href="https://discord.com/users/281424193139113985">
+    <img src="https://lanyard.kyrie25.me/api/281424193139113985?theme=dark" />
+  </a>
+</div>
 
 <!--
 **vasapolrittideah/vasapolrittideah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
