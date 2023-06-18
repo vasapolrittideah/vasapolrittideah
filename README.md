@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/281424193139113985">
-    <img src="https://lanyard.kyrie25.me/api/281424193139113985?theme=dark" />
+    <img src="https://lanyard.kyrie25.me/api/281424193139113985?theme=dark&idleMessage=I'm%20probably%20doing%20something%20else!" />
   </a>
 </div>
 
