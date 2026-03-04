@@ -1,7 +1,10 @@
-# 👋 Hi there, I'm Vasapol Rittideah!
-<!-- ![](https://komarev.com/ghpvc/?username=vasapolrittideah&color=red) -->
+### 👋 Hi there, I'm Vasapol Rittideah!
 
-## Tech Stack
+---
+
+![](https://komarev.com/ghpvc/?username=vasapolrittideah&color=red)
+
+### Tech Stack
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
@@ -33,8 +36,6 @@
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-
-
-## GitHub Summary
+### GitHub Summary
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vasapolrittideah&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 ![Stats](https://github-readme-stats-silk-omega-47.vercel.app/api?username=vasapolrittideah&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
